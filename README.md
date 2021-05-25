@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Aditi khatri
 - 👀 I’m interested in web development and Android development
 - 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 aditikhatri201/aditikhatri201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
